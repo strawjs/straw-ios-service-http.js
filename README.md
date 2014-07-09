@@ -14,4 +14,4 @@ Perform the HTTP *GET* method.
 
 Perform the HTTP *POST* method.
 
-# API Documentation
+# [API Documentation](http://strawjs.github.io/straw-ios-service-http.js/doc/v0.0.0/index.html)

@@ -1,8 +1,9 @@
+---
 version: 0.0.0
 files:
   README.md:
   - straw-ios-service-http.js v%.%.%
   - doc/v%.%.%
-  .jsduck.release.json:
+  ".jsduck.release.json":
   - straw-ios-service-http.js v%.%.%
   - doc/v%.%.%
