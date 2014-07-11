@@ -1,0 +1,26 @@
+{
+  "name": "straw-ios-service-http.js",
+  "main": "straw-ios-service-http.js",
+  "version": "0.0.1",
+  "authors": [
+    "Yoshiya Hinosawa <stibium121@gmail.com>"
+  ],
+  "description": "js interface for straw-ios-service-http",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "straw",
+    "strawservice",
+    "strawiosservice",
+    "http"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
