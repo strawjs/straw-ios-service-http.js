@@ -41,6 +41,9 @@ straw.service.http = (function (straw) {
      * @param {String} url
      */
     exports.post = function (url, data, opts) {
+
+        throw Error('Sorry, not implemented yet');
+
     };
 
     return exports;
