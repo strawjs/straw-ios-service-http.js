@@ -18,10 +18,9 @@
   "license": "MIT",
   "ignore": [
     "**/.*",
-    "node_modules",
-    "bower_components",
-    "test",
-    "tests"
+    "*.md",
+    "*.json",
+    "doc"
   ],
   "devDependencies": {
     "es6-promise": "~1.0.0"
