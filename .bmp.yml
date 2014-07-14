@@ -7,5 +7,5 @@ files:
   ".jsduck.release.json":
   - straw-ios-service-http.js v%.%.%
   - doc/v%.%.%
-  bower.json
-  - %.%.%
+  bower.json:
+  - '"version": "0.0.1",'
