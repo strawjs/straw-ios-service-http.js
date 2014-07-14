@@ -1,5 +1,7 @@
 // straw-ios-service-http.js
 
+/* global straw */
+
 // This library depends on es6 Promise.
 
 /**
@@ -50,7 +52,7 @@ straw.service.http = (function (straw) {
      *
      * @param {String} url
      */
-    exports.post = function (url, data, opts) {
+    exports.post = function (/*url, data, opts*/) {
 
         throw Error('Sorry, not implemented yet');
 
