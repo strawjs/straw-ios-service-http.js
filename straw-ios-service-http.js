@@ -27,7 +27,7 @@ straw.service.http = (function (straw) {
 
         var promise = new Promise(function (resolve, reject) {
 
-            core.serviceCall('http', 'get', {url: url, timeout: opts.timeout, charset: opts.charset}, resolve, reject);
+            core.serviceCall('http', 'get', {url: url, timeout: opts.timeout / 1000, charset: opts.charset}, resolve, reject);
 
         });
 
