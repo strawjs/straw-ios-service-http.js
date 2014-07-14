@@ -2,6 +2,8 @@
 
 # straw-ios-service-http.js v0.1.0
 
+[![Build Status](http://img.shields.io/travis/strawjs/straw-ios-service-http.js.svg?branch=master&style=flat)](https://travis-ci.org/strawjs/straw-ios-service-http.js)
+
 > JS Interface for straw-ios-service-http
 
 # Method
