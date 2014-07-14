@@ -1,0 +1,7 @@
+framework: jasmine
+src_files:
+- straw-ios-service-http.js
+- straw-ios-service-http-spec.js
+launch_in_ci:
+- PhantomJS
+

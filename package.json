@@ -7,7 +7,7 @@
     "doc": "doc"
   },
   "scripts": {
-    "test": "mocha",
+    "test": "jshint *.js && testem ci",
     "doc-dev": "jsduck --config .jsduck.dev.json",
     "doc-release": "jsduck --config .jsduck.release.json"
   },
