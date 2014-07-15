@@ -1,7 +1,8 @@
 framework: jasmine
 src_files:
 - straw-ios-service-http.js
+- bower_components/es6-promise/promise.js
+- bower_components/sinon/index.js
 - straw-ios-service-http-spec.js
 launch_in_ci:
 - PhantomJS
-
