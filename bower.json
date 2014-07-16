@@ -24,6 +24,7 @@
   ],
   "devDependencies": {
     "es6-promise": "~1.0.0",
-    "sinon": "http://sinonjs.org/releases/sinon-1.9.0.js"
+    "sinon": "http://sinonjs.org/releases/sinon-1.9.0.js",
+    "chai": "~1.9.1"
   }
 }
