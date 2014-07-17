@@ -1,6 +1,6 @@
 # [![Straw](http://strawjs.github.io/logo.png)](http://strawjs.github.io/)
 
-# straw-ios-service-http.js v0.1.0
+# straw-ios-service-http.js v0.1.1
 
 [![Build Status](http://img.shields.io/travis/strawjs/straw-ios-service-http.js.svg?branch=master&style=flat)](https://travis-ci.org/strawjs/straw-ios-service-http.js)
 
@@ -16,4 +16,4 @@ Perform the HTTP *GET* method.
 
 Perform the HTTP *POST* method.
 
-# [API Documentation](http://strawjs.github.io/straw-ios-service-http.js/doc/v0.1.0/index.html)
+# [API Documentation](http://strawjs.github.io/straw-ios-service-http.js/doc/v0.1.1/index.html)
