@@ -28,6 +28,18 @@ describe('straw.service.http', function () {
 
         });
 
+
+        it('also calls straw.core.serviceCall when called with opts == null', function () {
+
+            var mock = sinon.mock(straw.core);
+            mock.expects('serviceCall').once();
+
+            straw.service.http.get('http://www.example.com/');
+
+            mock.verify();
+            mock.restore();
+        });
+
     });
 
 });
